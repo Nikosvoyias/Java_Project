@@ -22,8 +22,7 @@ public class Fleet {
 		double sum = 0;
 		
 		for(Taxi t: taxis)
-			sum += t.calcAutonomy();
-		
+			sum += t.calcAutonomy();		
 		return sum;
 	}
 

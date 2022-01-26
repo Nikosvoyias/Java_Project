@@ -1,4 +1,3 @@
-
 public class ElectricalTaxi extends Taxi {
 	
 	private int batteriesNumber;

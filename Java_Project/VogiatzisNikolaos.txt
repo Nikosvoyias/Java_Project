@@ -1,3 +1,0 @@
-Athens
-Registration Number: IEK1357 Driver's Name: AyrtonSenna Taxi Autonomy: 37500.0
-Registration Number: NIE6969 Driver's Name: Lauda Taxi Autonomy: 90.09009009009009
